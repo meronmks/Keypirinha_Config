@@ -1,0 +1,78 @@
+{
+   ".header" : {
+      "creator" : "Keypirinha v2.15.4 (4aaa2ad)",
+      "creator_url" : "http://keypirinha.com/",
+      "format" : 102,
+      "modified" : "2017-10-17T08:26:56+0000",
+      "type" : "history"
+   },
+   "history" : [
+      {
+         "action" : null,
+         "item" : 17712792392785528363,
+         "label" : "System Configuration",
+         "time" : "2017-10-17T08:14:15+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2017-10-17T08:19:22+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2017-10-17T08:20:17+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2017-10-17T08:26:29+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2017-10-17T08:26:56+0000"
+      }
+   ],
+   "sets" : {
+      "actions" : [],
+      "items" : [
+         {
+            "args_hint" : "forbidden",
+            "category" : "keyword",
+            "hit_hint" : "noargs",
+            "id" : 7544475573990267934,
+            "label" : "Keypirinha: Configure",
+            "loop_on_suggest" : false,
+            "plugin" : "Internal.About",
+            "short_desc" : "Edit Keypirinha's configuration file(s)",
+            "target" : "app_config"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 17712792392785528363,
+            "label" : "System Configuration",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Administrative Tools",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk"
+         }
+      ],
+      "terms" : [
+         {
+            "items" : [ 17712792392785528363 ],
+            "search" : "conf"
+         },
+         {
+            "items" : [ 7544475573990267934 ],
+            "search" : "Confi"
+         }
+      ]
+   }
+}

@@ -1,0 +1,121 @@
+2017-10-17 17:14:03.873 [i] Keypirinha 2.15.4 (4aaa2ad) for x64
+2017-10-17 17:14:03.904 [i] System: WinNT-x64 10.0.15063-ws-0x0100
+2017-10-17 17:14:03.919 [i] Portable mode
+2017-10-17 17:14:03.919 [i] Keyboard layout: 00000411
+2017-10-17 17:14:03.941 [i] Monitor #1: Name[\\.\DISPLAY1] Rect[0, 0, 1600, 900] DpiScale[1.00] PRIMARY
+2017-10-17 17:14:03.950 [i] Monitor #2: Name[\\.\DISPLAY2] Rect[-1600, 0, 0, 900] DpiScale[1.00]
+2017-10-17 17:14:03.957 [i] Official packages: E:\Keypirinha\default\Packages
+2017-10-17 17:14:03.957 [i] Profile dir: E:\Keypirinha\portable\Profile
+2017-10-17 17:14:03.957 [i] Local dir: E:\Keypirinha\portable\Local
+2017-10-17 17:14:04.019 [i] Python 3.6.0 (default, Feb 14 2017, 09:16:02) [MSC v.1900 64 bit (AMD64)]
+2017-10-17 17:14:04.494 [i] Init done in 1.0657s, including 0.2505s (24%) for the Python interpreter.
+2017-10-17 17:14:04.494 [i] Plugin loaded: Internal.About
+2017-10-17 17:14:04.541 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2017-10-17 17:14:04.541 [i] Plugin loaded: Apps.Desktop (instance #1)
+2017-10-17 17:14:04.541 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2017-10-17 17:14:04.541 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2017-10-17 17:14:04.541 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2017-10-17 17:14:04.557 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2017-10-17 17:14:04.557 [i] Plugin loaded: Calc.Calc (instance #1)
+2017-10-17 17:14:04.557 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2017-10-17 17:14:04.557 [i] Plugin loaded: Env.Env (instance #1)
+2017-10-17 17:14:04.572 [i] Plugin loaded: Everything.Everything (instance #1)
+2017-10-17 17:14:04.572 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2017-10-17 17:14:04.588 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2017-10-17 17:14:04.588 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2017-10-17 17:14:04.588 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2017-10-17 17:14:04.588 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2017-10-17 17:14:04.604 [i] Plugin loaded: String.String (instance #1)
+2017-10-17 17:14:04.604 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2017-10-17 17:14:04.604 [i] Plugin loaded: URL.URL (instance #1)
+2017-10-17 17:14:04.604 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2017-10-17 17:14:04.604 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2017-10-17 17:14:04.619 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2017-10-17 17:14:04.619 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2017-10-17 17:14:05.219 [i] Apps.EnvPath: Cataloged 2064 items in 0.5 seconds
+2017-10-17 17:14:05.928 [i] Bookmarks.Bookmarks: Referenced 396 bookmarks
+
+
+2017-10-17 17:18:18.437 [i] Keypirinha 2.15.4 (4aaa2ad) for x64
+2017-10-17 17:18:18.437 [i] System: WinNT-x64 10.0.15063-ws-0x0100
+2017-10-17 17:18:18.437 [i] Portable mode
+2017-10-17 17:18:18.453 [i] Keyboard layout: 00000411
+2017-10-17 17:18:18.453 [i] Monitor #1: Name[\\.\DISPLAY1] Rect[0, 0, 1600, 900] DpiScale[1.00] PRIMARY
+2017-10-17 17:18:18.453 [i] Monitor #2: Name[\\.\DISPLAY2] Rect[-1600, 0, 0, 900] DpiScale[1.00]
+2017-10-17 17:18:18.453 [i] Official packages: C:\Users\Kagari\Desktop\Keypirinha\default\Packages
+2017-10-17 17:18:18.453 [i] Profile dir: C:\Users\Kagari\Desktop\Keypirinha\portable\Profile
+2017-10-17 17:18:18.468 [i] Local dir: C:\Users\Kagari\Desktop\Keypirinha\portable\Local
+2017-10-17 17:18:18.500 [i] Python 3.6.0 (default, Feb 14 2017, 09:16:02) [MSC v.1900 64 bit (AMD64)]
+2017-10-17 17:18:18.915 [i] Loaded 1 item from history file.
+2017-10-17 17:18:18.930 [i] Loaded 2018 items from catalog file.
+2017-10-17 17:18:18.962 [i] Init done in 0.5763s, including 0.4105s (71%) for the Python interpreter.
+2017-10-17 17:18:18.962 [i] Plugin loaded: Internal.About
+2017-10-17 17:18:19.024 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2017-10-17 17:18:19.024 [i] Plugin loaded: Apps.Desktop (instance #1)
+2017-10-17 17:18:19.024 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2017-10-17 17:18:19.024 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2017-10-17 17:18:19.024 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2017-10-17 17:18:19.064 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2017-10-17 17:18:19.080 [i] Plugin loaded: Calc.Calc (instance #1)
+2017-10-17 17:18:19.080 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2017-10-17 17:18:19.080 [i] Plugin loaded: Env.Env (instance #1)
+2017-10-17 17:18:19.080 [i] Plugin loaded: Everything.Everything (instance #1)
+2017-10-17 17:18:19.095 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2017-10-17 17:18:19.126 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2017-10-17 17:18:19.126 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2017-10-17 17:18:19.126 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2017-10-17 17:18:19.126 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2017-10-17 17:18:19.142 [i] Plugin loaded: String.String (instance #1)
+2017-10-17 17:18:19.142 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2017-10-17 17:18:19.142 [i] Plugin loaded: URL.URL (instance #1)
+2017-10-17 17:18:19.142 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2017-10-17 17:18:19.142 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2017-10-17 17:18:19.158 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2017-10-17 17:18:19.158 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2017-10-17 17:18:19.376 [i] Apps.EnvPath: Cataloged 2064 items in 0.2 seconds
+2017-10-17 17:18:20.405 [i] Bookmarks.Bookmarks: Referenced 396 bookmarks
+2017-10-17 17:19:07.647 [i] Application configuration has changed
+2017-10-17 17:19:32.322 [i] Application configuration has changed
+
+
+2017-10-17 17:24:46.906 [i] Keypirinha 2.15.4 (4aaa2ad) for x64
+2017-10-17 17:24:46.922 [i] System: WinNT-x64 10.0.15063-ws-0x0100
+2017-10-17 17:24:46.922 [i] Portable mode
+2017-10-17 17:24:46.922 [i] Keyboard layout: 00000411
+2017-10-17 17:24:46.922 [i] Monitor #1: Name[\\.\DISPLAY1] Rect[0, 0, 1600, 900] DpiScale[1.00] PRIMARY
+2017-10-17 17:24:46.922 [i] Monitor #2: Name[\\.\DISPLAY2] Rect[-1600, 0, 0, 900] DpiScale[1.00]
+2017-10-17 17:24:46.937 [i] Official packages: C:\Users\Kagari\Desktop\Keypirinha\default\Packages
+2017-10-17 17:24:46.937 [i] Profile dir: C:\Users\Kagari\Desktop\Keypirinha\portable\Profile
+2017-10-17 17:24:46.937 [i] Local dir: C:\Users\Kagari\Desktop\Keypirinha\portable\Local
+2017-10-17 17:24:46.953 [i] Python 3.6.0 (default, Feb 14 2017, 09:16:02) [MSC v.1900 64 bit (AMD64)]
+2017-10-17 17:24:47.172 [i] Loaded 3 items from history file.
+2017-10-17 17:24:47.187 [i] Loaded 2017 items from catalog file.
+2017-10-17 17:24:47.218 [i] Init done in 0.3081s, including 0.2061s (67%) for the Python interpreter.
+2017-10-17 17:24:47.219 [i] Plugin loaded: Internal.About
+2017-10-17 17:24:47.241 [i] Plugin loaded: Apps.CustomCmds (instance #1)
+2017-10-17 17:24:47.241 [i] Plugin loaded: Apps.Desktop (instance #1)
+2017-10-17 17:24:47.241 [i] Plugin loaded: Apps.EnvPath (instance #1)
+2017-10-17 17:24:47.241 [i] Plugin loaded: Apps.ExtraPaths (instance #1)
+2017-10-17 17:24:47.241 [i] Plugin loaded: Apps.StartMenu (instance #1)
+2017-10-17 17:24:47.257 [i] Plugin loaded: Bookmarks.Bookmarks (instance #1)
+2017-10-17 17:24:47.273 [i] Plugin loaded: Calc.Calc (instance #1)
+2017-10-17 17:24:47.273 [i] Plugin loaded: ControlPanel.ControlPanel (instance #1)
+2017-10-17 17:24:47.273 [i] Plugin loaded: Env.Env (instance #1)
+2017-10-17 17:24:47.273 [i] Plugin loaded: Everything.Everything (instance #1)
+2017-10-17 17:24:47.273 [i] Plugin loaded: FileBrowser.FileBrowser (instance #1)
+2017-10-17 17:24:47.288 [i] Plugin loaded: FileZilla.FileZilla (instance #1)
+2017-10-17 17:24:47.288 [i] Plugin loaded: GoogleTranslate.GoogleTranslate (instance #1)
+2017-10-17 17:24:47.288 [i] Plugin loaded: PuTTY.PuTTY (instance #1)
+2017-10-17 17:24:47.288 [i] Plugin loaded: RegBrowser.RegBrowser (instance #1)
+2017-10-17 17:24:47.305 [i] Plugin loaded: String.String (instance #1)
+2017-10-17 17:24:47.306 [i] Plugin loaded: TaskSwitcher.TaskSwitcher (instance #1)
+2017-10-17 17:24:47.306 [i] Plugin loaded: URL.URL (instance #1)
+2017-10-17 17:24:47.306 [i] Plugin loaded: WebSearch.WebSearch (instance #1)
+2017-10-17 17:24:47.306 [i] Plugin loaded: WebSuggest.WebSuggest (instance #1)
+2017-10-17 17:24:47.306 [i] Plugin loaded: Winamp.Winamp (instance #1)
+2017-10-17 17:24:47.322 [i] Plugin loaded: WinSCP.WinSCP (instance #1)
+2017-10-17 17:24:47.619 [i] Apps.EnvPath: Cataloged 2064 items in 0.2 seconds
+2017-10-17 17:24:48.487 [i] Bookmarks.Bookmarks: Referenced 396 bookmarks
+2017-10-17 17:37:08.626 [i] Environment changed.
+2017-10-17 17:37:08.641 [i] Apps.EnvPath: PATH changed, rebuilding catalog...
+2017-10-17 17:37:08.803 [i] Apps.EnvPath: Cataloged 2057 items in 0.2 seconds
