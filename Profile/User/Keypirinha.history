@@ -3,7 +3,7 @@
       "creator" : "Keypirinha v2.15.4 (4aaa2ad)",
       "creator_url" : "http://keypirinha.com/",
       "format" : 102,
-      "modified" : "2017-10-17T13:22:58+0000",
+      "modified" : "2017-10-17T13:40:40+0000",
       "type" : "history"
    },
    "history" : [
@@ -54,6 +54,24 @@
          "item" : 7544475573990267934,
          "label" : "Keypirinha: Configure",
          "time" : "2017-10-17T13:22:58+0000"
+      },
+      {
+         "action" : null,
+         "item" : 53234727363367291,
+         "label" : "Users",
+         "time" : "2017-10-17T13:38:55+0000"
+      },
+      {
+         "action" : null,
+         "item" : 14188423516333210745,
+         "label" : "open-wsl.exe",
+         "time" : "2017-10-17T13:39:17+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2017-10-17T13:40:40+0000"
       }
    ],
    "sets" : {
@@ -74,12 +92,34 @@
             "args_hint" : "accepted",
             "category" : "file",
             "hit_hint" : "keepall",
+            "id" : 14188423516333210745,
+            "label" : "open-wsl.exe",
+            "loop_on_suggest" : true,
+            "plugin" : "FileBrowser.FileBrowser",
+            "short_desc" : "",
+            "target" : "C:\\Users\\meron\\Desktop\\wsl-terminal\\open-wsl.exe"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
             "id" : 17712792392785528363,
             "label" : "System Configuration",
             "loop_on_suggest" : false,
             "plugin" : "Apps.StartMenu",
             "short_desc" : "Start Menu: Programs\\Administrative Tools",
             "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
+            "id" : 53234727363367291,
+            "label" : "Users",
+            "loop_on_suggest" : true,
+            "plugin" : "FileBrowser.FileBrowser",
+            "short_desc" : "",
+            "target" : "C:\\Users"
          },
          {
             "args_hint" : "accepted",
@@ -94,6 +134,14 @@
          }
       ],
       "terms" : [
+         {
+            "items" : [ 53234727363367291 ],
+            "search" : "C:"
+         },
+         {
+            "items" : [ 53234727363367291 ],
+            "search" : "C:\\U"
+         },
          {
             "items" : [ 17712792392785528363 ],
             "search" : "conf"
