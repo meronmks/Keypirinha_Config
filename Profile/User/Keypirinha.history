@@ -3,7 +3,7 @@
       "creator" : "Keypirinha v2.15.4 (4aaa2ad)",
       "creator_url" : "http://keypirinha.com/",
       "format" : 102,
-      "modified" : "2017-10-17T13:40:40+0000",
+      "modified" : "2017-10-17T13:49:28+0000",
       "type" : "history"
    },
    "history" : [
@@ -72,6 +72,18 @@
          "item" : 7544475573990267934,
          "label" : "Keypirinha: Configure",
          "time" : "2017-10-17T13:40:40+0000"
+      },
+      {
+         "action" : null,
+         "item" : 269763493969377732,
+         "label" : "Unity",
+         "time" : "2017-10-17T13:49:12+0000"
+      },
+      {
+         "action" : null,
+         "item" : 7544475573990267934,
+         "label" : "Keypirinha: Configure",
+         "time" : "2017-10-17T13:49:28+0000"
       }
    ],
    "sets" : {
@@ -114,6 +126,17 @@
             "args_hint" : "accepted",
             "category" : "file",
             "hit_hint" : "keepall",
+            "id" : 269763493969377732,
+            "label" : "Unity",
+            "loop_on_suggest" : false,
+            "plugin" : "Apps.StartMenu",
+            "short_desc" : "Start Menu: Programs\\Unity 5.6.0f3 (64-bit)",
+            "target" : "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Unity 5.6.0f3 (64-bit)\\Unity.lnk"
+         },
+         {
+            "args_hint" : "accepted",
+            "category" : "file",
+            "hit_hint" : "keepall",
             "id" : 53234727363367291,
             "label" : "Users",
             "loop_on_suggest" : true,
@@ -149,6 +172,10 @@
          {
             "items" : [ 7544475573990267934 ],
             "search" : "Confi"
+         },
+         {
+            "items" : [ 269763493969377732 ],
+            "search" : "Uni"
          },
          {
             "items" : [ 13386213223189745850 ],
